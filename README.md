@@ -14,4 +14,4 @@ Random cricket score simulator based on weighted probability of each run scored 
    - One of the reliable and fast algorithm to find random number by given probability<br/>
   
   ## How to build
-  Dot net build with core 3 framework installed will work.
+  Dot net build with VS2019 and.Net Core 3 framework installed will work.
