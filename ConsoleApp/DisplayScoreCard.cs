@@ -78,7 +78,7 @@ namespace ConsoleApp
                 var scoredBy = runsScored[i].ScoredBy;
                 if (run == -1)
                 {
-                    Console.WriteLine(overNumber + "." + i + " " + scoredBy + " is out.");
+                    Console.WriteLine(overNumber + "." + (i + 1) + " " + scoredBy + " is out.");
                 }
                 else
                 {
