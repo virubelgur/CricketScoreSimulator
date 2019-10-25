@@ -1,0 +1,9 @@
+/.vs
+/ConsoleApp/obj
+/ConsoleApp/bin
+/Domain/obj
+/Domain/bin
+/Domain.Contract/obj
+/Domain.Contract/bin
+/UnitTests/obj
+/UnitTests/bin

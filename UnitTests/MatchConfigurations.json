@@ -1,0 +1,62 @@
+﻿[
+  {
+    "BallsPerOver": 6,
+    "OversLimit": 4,
+    "WicketsLeft": 3,
+    "RunsToWin": 40,
+    "BowlingTeam": "Nibiru",
+    "BattingTeam": "Remus",
+    "Players": [
+      { "Name": "Pravin" },
+      { "Name": "Irfan" },
+      { "Name": "Jalindar" },
+      { "Name": "Vaishali" }
+    ],
+    "PlayersProbability": {
+      "Pravin": [ 5, 30, 25, 10, 15, 1, 9, 5 ],
+      "Irfan": [ 10, 40, 20, 5, 10, 1, 4, 10 ],
+      "Jalindar": [ 20, 30, 15, 5, 5, 1, 4, 20 ],
+      "Vaishali": [ 30, 25, 5, 0, 5, 1, 4, 30 ]
+    }
+  },
+  {
+    "BallsPerOver": 6,
+    "OversLimit": 8,
+    "WicketsLeft": 3,
+    "RunsToWin": 80,
+    "BowlingTeam": "Shore",
+    "BattingTeam": "Vulacn",
+    "Players": [
+      { "Name": "Veer" },
+      { "Name": "Nishad" },
+      { "Name": "Bhavan" },
+      { "Name": "Santhosh" }
+    ],
+    "PlayersProbability": {
+      "Veer": [ 5, 30, 25, 10, 15, 1, 9, 5 ],
+      "Nishad": [ 10, 40, 20, 5, 10, 1, 4, 10 ],
+      "Bhavan": [ 20, 30, 15, 5, 5, 1, 4, 20 ],
+      "Santhosh": [ 30, 25, 5, 0, 5, 1, 4, 30 ]
+    }
+  },
+  {
+    "BallsPerOver": 6,
+    "OversLimit": 4,
+    "WicketsLeft": 3,
+    "RunsToWin": 80,
+    "BowlingTeam": "Nibiru",
+    "BattingTeam": "Remus",
+    "Players": [
+      { "Name": "Veer" },
+      { "Name": "Irfan" },
+      { "Name": "Jalindar" },
+      { "Name": "Vaishali" }
+    ],
+    "PlayersProbability": {
+      "Veer": [ 5, 30, 25, 10, 15, 1, 9, 5 ],
+      "Irfan": [ 10, 40, 20, 5, 10, 1, 4, 10 ],
+      "Jalindar": [ 20, 30, 15, 5, 5, 1, 4, 20 ],
+      "Vaishali": [ 30, 25, 5, 0, 5, 1, 4, 30 ]
+    }
+  }
+]
