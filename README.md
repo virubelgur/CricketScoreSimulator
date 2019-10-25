@@ -6,7 +6,7 @@ Random cricket score simulator based on weighted probability of each run scored 
 2. Reusable 
    - Entire game logic can be reused, only need to build front-end based on the available domain contract to support Mobile/Web application.<br/>
 3. Configurable match settings
-    - [MatchSettings] (ConsoleApp/appsettings.json) can be updated any time without re-builing application
+    - [MatchSettings](ConsoleApp/appsettings.json) can be updated any time without re-builing application
       - Team/Players name, number of overs, players probality & everthing related to match can be configured.<br/>
 4. .Net Core framework
     - Allows cross platfom for application <br/>
